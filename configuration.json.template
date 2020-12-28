@@ -1,0 +1,11 @@
+{
+    "APIKEY": "<api key>",
+    "SECRET": "<secret key>",
+    "SYMBOL": "ETH/BTC",
+    "LOG_LEVEL": "INFO",
+    "INTERVAL": 60,
+    "TIMEFRAME": "1h",
+    "SMA": 17,
+    "LMA": 22,
+    "QTY": 100
+}
