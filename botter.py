@@ -11,7 +11,7 @@ from logging.handlers import TimedRotatingFileHandler, RotatingFileHandler
 from datetime import datetime, timedelta, timezone
 import calendar
 
-from cryptobot import CryptoBot
+from crypto import CryptoBot
 args = sys.argv
 
 class Botter:
